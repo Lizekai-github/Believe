@@ -137,10 +137,7 @@
 	
 	float: left;
 }
-.container .nav-header a{
-	text-decoration: none;
-	text-shadow: 2px 6px 20px #403E72; 
-}
+
 .container .collapse .collapse-ul{
 	list-style:none;
 	
